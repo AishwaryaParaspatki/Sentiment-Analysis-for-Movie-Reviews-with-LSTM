@@ -21,7 +21,14 @@ I hacve used the IMDB dataset provided in the keras dataset library.<br>
   b. Add LSTM layer with 128 units.<br>
   c. Add output layer with sigmoid activation.<br>
   d. Used binary cross entropy as the loss function and RMSprop optimizer with accuracy as the evaluation metric.<br>
- 5. Plot accuracy for each epoch:<br>
+ 5. Plot accuracy for each epoch using the RMSprop optimizer:<br>
  ![TrainvsValidationacc](/images/TrainvsValidationAcc.png)
  6. Plot confusion matrix:<br>
  ![Confusion_Matrix](/images/Confusion_matrix.png)
+ <br>
+<br>
+Training vs Validation Accuracy with SGD Optimizer:<br>
+![SGD](/images/SGD.png)
+<br>
+Training vs Validation Accuracy with Adam Optimizer:<br>
+![Adam](/images/Adam.png)
