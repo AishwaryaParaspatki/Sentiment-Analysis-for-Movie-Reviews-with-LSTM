@@ -26,9 +26,8 @@ I hacve used the IMDB dataset provided in the keras dataset library.<br>
  6. Plot confusion matrix:<br>
  ![Confusion_Matrix](/images/Confusion_matrix.png)
 
-<br>
 Training vs Validation Accuracy with SGD Optimizer:<br>
-![SGD](/images/SGD.png)
+![SGD_optimizer](/images/SGD.png)
 <br>
 Training vs Validation Accuracy with Adam Optimizer:<br>
-![Adam](/images/Adam.png)
+![Adam_optimizer](/images/Adam.png)
